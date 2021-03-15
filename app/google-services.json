@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805164795306",
+    "project_id": "sasa-doc",
+    "storage_bucket": "sasa-doc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805164795306:android:cc6d001598caf1d05717d3",
+        "android_client_info": {
+          "package_name": "com.example.sasa_doc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805164795306-n2ghle2759f3ejvmg5vv0ua5gqs6b3q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD8IC2rNduuX9Owq66aRzKvQg2PfWmTPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805164795306-n2ghle2759f3ejvmg5vv0ua5gqs6b3q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
